@@ -1,7 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 <div align="center">
- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
   # 🙌Welcome🙌
-  
+  <br/>
   ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FE708E&title_bg=%236BBBD8&icon=&icon_color=%23EAE8E8&title=hits&edge_flat=false)
 
   ### SKILLS🛠
