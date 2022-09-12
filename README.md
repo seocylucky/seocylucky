@@ -38,6 +38,6 @@
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seocylucky&show_icons=true&theme=dracula)
   
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer)
   
 </div>
