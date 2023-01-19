@@ -1,14 +1,20 @@
-<div align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Welcome%20&animation=fadeIn&fontAlignY=38&fontSize=90&desc=chaeyeon's%20GitHub%20Profile&descAlignY=51&descAlign=62)
-  
-  # 🙌🙌🙌🙌🙌🙌
-  
-  <br/>
+<div align="start">
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseocylucky&count_bg=%23FF709F&title_bg=%235FB3D9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 
+   ## 🍒Chae-ri's Github🍒
+  
+  안녕하세요👋🏻 서채연입니다.
+
+  ## 💁🏻‍♀️ Who am I
+  
+  - Global Media of Soongsil Univ.🎓
+  - Front-end Dev team Member of LIKELION 10th🦁
+  - Leader of LIKELION 11th🦁
+  - Front-end Dev team Member of YOURSSU💙
+  - Front-end Dev of Welcome to GingerHotel🎄
+  
   ### SKILLS🛠
   #### Learning Languages
   <div>
