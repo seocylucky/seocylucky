@@ -10,8 +10,8 @@
   ## 💁🏻‍♀️ Who am I
   
   - Global Media of Soongsil Univ.🎓
-  - Front-end Dev team Member of LIKELION 10th🦁
-  - Leader of LIKELION 11th🦁
+  - Front-end Dev team Member of LIKELION SSU 10th🦁
+  - Leader of LIKELION SSU 11th🦁
   - Front-end Dev team Member of YOURSSU💙
   - Front-end Dev of Welcome to GingerHotel🎄
   
