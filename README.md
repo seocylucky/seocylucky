@@ -41,6 +41,6 @@
   <img src="https://img.shields.io/badge/Figma-FF3850?style=flat-square&logo=Figma&logoColor=white"/>
   </div>
 <hr/>
-<img src="https://github-readme-stats.vercel.app/api?username=seocylucky&show_icons=true"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seocylucky&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=seocylucky&theme=tokyonight"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seocylucky&layout=compact&theme=tokyonight">
   
 </div>
