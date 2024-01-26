@@ -14,6 +14,7 @@
   - Leader of <a href="https://github.com/likelion-ssu">LIKELION SSU 11th</a>🦁
   - Front-end Dev team Member of <a href="https://github.com/yourssu">YOURSSU</a>💙
   - Front-end Dev of <a href="https://github.com/Advent-calendar-by-likeLion">Welcome to GingerHotel</a>🎄
+  - Google Developer Student Clubs Soongsil<a href="https://github.com/gdsc-ssu"> GDSC Soongsil</a>🌏
   
   ### SKILLS🛠
   #### Learning Languages
@@ -46,7 +47,12 @@
   <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-FF3850?style=flat-square&logo=Figma&logoColor=white"/>
   </div>
+
 <hr/>
-<img src="https://github-readme-stats.vercel.app/api?username=seocylucky&theme=tokyonight"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seocylucky&layout=compact&theme=tokyonight">
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=v_l_v_l_v)](https://solved.ac/v_l_v_l_v/)
+
+<img src="https://github-readme-stats.vercel.app/api?username=seocylucky&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seocylucky&layout=compact&theme=tokyonight">
   
 </div>
