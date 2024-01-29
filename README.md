@@ -14,7 +14,7 @@
   - Leader of <a href="https://github.com/likelion-ssu">LIKELION SSU 11th</a>🦁
   - Front-end Dev team Member of <a href="https://github.com/yourssu">YOURSSU</a>💙
   - Front-end Dev of <a href="https://github.com/Advent-calendar-by-likeLion">Welcome to GingerHotel</a>🎄
-  - Google Developer Student Clubs Soongsil<a href="https://github.com/gdsc-ssu"> GDSC Soongsil</a>🌏
+  - Google Developer Student Clubs Soongsil Core Member<a href="https://github.com/gdsc-ssu"> GDSC Soongsil</a>🌏
   
   ### SKILLS🛠
   #### Learning Languages
