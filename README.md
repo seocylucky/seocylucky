@@ -50,9 +50,9 @@
 
 <hr/>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=v_l_v_l_v)](https://solved.ac/v_l_v_l_v/)
-
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=v_l_v_l_v)](https://solved.ac/v_l_v_l_v/)
+  
 <img src="https://github-readme-stats.vercel.app/api?username=seocylucky&theme=tokyonight">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seocylucky&layout=compact&theme=tokyonight">
   
 </div>
