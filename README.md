@@ -19,7 +19,7 @@
   - Front-end Dev of <a href="https://github.com/Advent-calendar-by-likeLion">Welcome to GingerHotel</a>🎄
   - Core Member of Google Developer Student Clubs Soongsil<a href="https://github.com/gdsc-ssu"> GDSC Soongsil</a>🌏
   
-  # SKILLS🛠
+  # 🛠 SKILLS
   <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
