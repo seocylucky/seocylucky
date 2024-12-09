@@ -1,4 +1,4 @@
-<div align="start">
+<div align="center">
 
 # 🍒Chae-ri's Github🍒
   
@@ -16,14 +16,9 @@
 <br/>
 
 ![chaeri's GitHub stats](https://github-readme-stats.vercel.app/api?username=seocylucky&show_icons=true&theme=tokyonight)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=v_l_v_l_v)](https://solved.ac/v_l_v_l_v/)
 
-  
-  </div>
-
-</div>
-
-### 🐈🐈🐈
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/seocylucky"
@@ -31,3 +26,5 @@
   height="200"
 />
 </a>
+
+</div>
