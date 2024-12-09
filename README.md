@@ -1,6 +1,14 @@
 <div align="start">
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseocylucky&count_bg=%23FF709F&title_bg=%235FB3D9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/seocylucky"
+  width="600"
+  height="300"
+/>
+</a>
   
 
   # 🍒Chae-ri's Github🍒
