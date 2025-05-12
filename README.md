@@ -9,16 +9,16 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/tanstackquery-FF4154?style=flat-square&logo=React&logoColor=white"/><br/><br/>
-  <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/emotion-FF8800?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/recoil-3578E5?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/zustand-EF2D5E?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tanstackquery-FF4154?style=flat-square&logo=reactquery&logoColor=white"/><br/><br/>
+  <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=StyledComponents&logoColor=white"/>
+  <img src="https://img.shields.io/badge/emotion-FF8800?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white"/>
+  <img src="https://img.shields.io/badge/zustand-EF2D5E?style=flat-square&logoColor=white"/>
 
 ### 🤓 I'm studying...
   <img src="https://img.shields.io/badge/Next.js-2D3E50?style=flat-square&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=Three.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=Three.js&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/><br/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
