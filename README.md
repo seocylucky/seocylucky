@@ -48,7 +48,7 @@
 
 ## 📚 Read
 [🏊🏻‍♀️모던 자바스크립트 딥다이브](https://github.com/likelion-ssu/JS-Deep-Dive)<br/>
-[🏊🏻‍♀️모던 리액트 딥다이브](https://github.com/likelion-ssu/JS-Deep-Dive)<br/>
+[🏊🏻‍♀️모던 리액트 딥다이브](https://github.com/yourssu01-04s/react-deepdive)<br/>
 [☕️모던 자바 인 액션](https://github.com/ryuseunghan/java-in-action-study)
 
 <br/>
