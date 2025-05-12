@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/tanstackquery-FF4154?style=flat-square&logo=reactquery&logoColor=white"/><br/><br/>
+  <img src="https://img.shields.io/badge/tanstackquery-FF4154?style=flat-square&logo=reactquery&logoColor=white"/><br/>
   <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=StyledComponents&logoColor=white"/>
   <img src="https://img.shields.io/badge/emotion-FF8800?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white"/>
