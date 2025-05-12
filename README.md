@@ -31,6 +31,15 @@
 - [2023.09 ~ 2024.08] Google Developer Student Club (GDSC) Soongsil 3rd Core Member<br/>
 - [2024.12 ~ 2025.06] 우리FIS아카데미 클라우드서비스개발 과정 교육<br/>
 
+## 📂 Projects
+(2025.04 ~ now) [💸 라이프스타일 기반 신용 대출 서비스, FlexRate](https://github.com/FLEX-RATE)<br/>
+(2025.02 ~ now) [💙 우리FISA 디자인 시스템, Woori Design System](https://github.com/woori-design/Woori-Design-System)<br/>
+(2024.08 ~ 2024.12) [🫰🏻 유어슈 동아리 디자인 시스템, Woori Design System](https://github.com/yourssu/Handy-React)<br/>
+(2024.03 ~ 2024.05) [🎨 StableDiffusion AI 기반 그림일기 웹서비스, 그려그려](https://github.com/Draw-Draw)<br/>
+(2023.12 ~ 2024.08) [🏫 숭실대학교 학생들을 위한 대학라이프 종합 서비스, 숨쉴때](https://github.com/yourssu/Soomsil-Web)<br/>
+(2023.04 ~ 2023.08) [🎙️ IT 직종 취준생을 위한 모의면접 서비스, ITerview](https://github.com/BLACKPINK-SLJY)<br/>
+(2022.11 ~ 2022.12) [🏫 크리스마스를 기념하는 어드벤트 캘린더 편지 서비스, Welcome To GingerHotel](https://github.com/Advent-calendar-by-likeLion/AdventCalendar)
+
 ## 📚 Read
 [🏊🏻‍♀️모던 자바스크립트 딥다이브](https://github.com/likelion-ssu/JS-Deep-Dive)<br/>
 [🏊🏻‍♀️모던 리액트 딥다이브](https://github.com/likelion-ssu/JS-Deep-Dive)<br/>
