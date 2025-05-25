@@ -58,7 +58,7 @@
 <br/>
 
 <a href="https://github.com/seocylucky/gitanimals">
-    <img src="https://render.gitanimals.org/lines/seocylucky?pet-id=653908293849337079" width="25%" height="120"/><img src="https://render.gitanimals.org/lines/seocylucky?pet-id=665164914038047704" width="25%" height="120"/><img src="https://render.gitanimals.org/lines/seocylucky?pet-id=667573281762598892" width="25%" height="120"/>
+    <img src="https://render.gitanimals.org/lines/seocylucky?pet-id=653908293849337079" width="33%" height="120"/><img src="https://render.gitanimals.org/lines/seocylucky?pet-id=665164914038047704" width="33%" height="120"/><img src="https://render.gitanimals.org/lines/seocylucky?pet-id=667573281762598892" width="33%" height="120"/>
 </a>
 
 </div>
