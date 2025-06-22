@@ -53,7 +53,12 @@
 
 <br/>
 
-![chaeri's GitHub stats](https://github-readme-stats.vercel.app/api?username=seocylucky&show_icons=true&theme=transparent) ![GitPaws Cat](https://gitpaws.vercel.app/api/cat/image/seocylucky)
+<div style="display: flex;">
+
+![chaeri's GitHub stats](https://github-readme-stats.vercel.app/api?username=seocylucky&show_icons=true&theme=transparent)
+![GitPaws Cat](https://gitpaws.vercel.app/api/cat/image/seocylucky)
+  
+</div>
 
 <br/>
 
