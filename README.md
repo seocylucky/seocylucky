@@ -53,13 +53,10 @@
 
 <br/>
 
-<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=seocylucky&show_icons=true&theme=transparent" width="420" />
+  <img src="https://gitpaws.vercel.app/api/cat/image/seocylucky" width="350" />
 
-![chaeri's GitHub stats](https://github-readme-stats.vercel.app/api?username=seocylucky&show_icons=true&theme=transparent)
-![GitPaws Cat](https://gitpaws.vercel.app/api/cat/image/seocylucky)
-  
-</div>
-
+<br/>
 <br/>
 
 <a href="https://github.com/seocylucky/gitanimals">
