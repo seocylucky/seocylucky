@@ -54,7 +54,7 @@
 <br/>
 
   <img src="https://github-readme-stats.vercel.app/api?username=seocylucky&show_icons=true&theme=transparent" width="420" />
-  <img src="https://gitpaws.vercel.app/api/cat/image/seocylucky" width="350" />
+  <a href="https://gitpaws.vercel.app/api/cat/image/seocylucky"><img src="https://gitpaws.vercel.app/api/cat/image/seocylucky" width="350" /></a>
 
 <br/>
 <br/>
