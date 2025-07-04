@@ -35,7 +35,8 @@
 - [2023.02 ~ 2025.02] 숭실대 IT 동아리 YOURSSU WEB FrontEnd Member<br/>
 - [2023.03 ~ 2023.07] 언타이틀 학술 소모임 웹 프로그래밍 멘토링 멘토<br/>
 - [2023.09 ~ 2024.08] Google Developer Student Club (GDSC) Soongsil 3rd Core Member<br/>
-- [2024.12 ~ 2025.06] 우리FIS아카데미 클라우드서비스개발 과정 교육<br/>
+- [2024.12 ~ 2025.06] 우리FIS아카데미 클라우드서비스개발 과정 교육 수료<br/>
+- [2025.07 ~ now] 오픈소스 컨트리뷰션 아카데미 team Githru 멘티<br/>
 
 ## 📂 Projects
 - [2025.04 ~ now] [💸 라이프스타일 기반 신용 대출 서비스, FlexRate](https://github.com/FLEX-RATE)<br/>
