@@ -2,7 +2,7 @@ import feedparser, time
 
 URL="https://yonyoni824.tistory.com/rss"
 RSS_FEED = feedparser.parse(URL)
-MAX_POST=7
+MAX_POST=3
 
 markdown_text = """
 <div align="start">
@@ -59,6 +59,17 @@ markdown_text = """
 [🏊🏻‍♀️모던 리액트 딥다이브](https://github.com/yourssu01-04s/react-deepdive)<br/>
 [☕️모던 자바 인 액션](https://github.com/ryuseunghan/java-in-action-study)
 
+## ✍🏻 Recent Blog posts
+"""
+
+markdown_blog = ""
+for idx, feed in enumerate(RSS_FEED['entries']):
+    if idx >= MAX_POST:
+        break
+    feed_date = feed['published_parsed']
+    markdown_blog += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) <br/>\n"
+
+markdown_footer = """
 <br/>
 
   <img src="https://github-readme-stats.vercel.app/api?username=seocylucky&show_icons=true&theme=transparent" width="420" />
@@ -68,22 +79,13 @@ markdown_text = """
 <br/>
 
 <a href="https://github.com/seocylucky/gitanimals">
-    <img src="https://render.gitanimals.org/lines/seocylucky?pet-id=653908293849337079" width="33%" height="120"/><img src="https://render.gitanimals.org/lines/seocylucky?pet-id=665164914038047704" width="33%" height="120"/><img src="https://render.gitanimals.org/lines/seocylucky?pet-id=667573281762598892" width="33%" height="120"/>
+    <img src="https://render.gitanimals.org/lines/seocylucky?pet-id=653908293849337079" width="33%" height="120"/>
+    <img src="https://render.gitanimals.org/lines/seocylucky?pet-id=665164914038047704" width="33%" height="120"/>
+    <img src="https://render.gitanimals.org/lines/seocylucky?pet-id=667573281762598892" width="33%" height="120"/>
 </a>
 
 </div>
+"""
 
-## ✍🏻 Recent Blog posts
-""" # list of blog posts will be appended here
-
-
-for idx, feed in enumerate(RSS_FEED['entries']):
-    if idx > MAX_POST:
-        break
-    else:
-        feed_date = feed['published_parsed']
-        markdown_text += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) <br/>\n"
-
-f = open("README.md",mode="w", encoding="utf-8")
-f.write(markdown_text)
-f.close()
+with open("README.md", mode="w", encoding="utf-8") as f:
+    f.write(markdown_header + markdown_blog + markdown_footer)
