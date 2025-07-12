@@ -1,10 +1,10 @@
 import feedparser, time
 
-URL="https://yonyoni824.tistory.com/rss"
+URL = "https://yonyoni824.tistory.com/rss"
 RSS_FEED = feedparser.parse(URL)
-MAX_POST=3
+MAX_POST = 3
 
-markdown_text = """
+markdown_header = """
 <div align="start">
 
 ![download (1)](https://github.com/user-attachments/assets/26bdde30-5613-4c21-8500-f38ebdd7c628)
