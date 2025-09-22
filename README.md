@@ -54,6 +54,9 @@
 [☕️모던 자바 인 액션](https://github.com/ryuseunghan/java-in-action-study)
 
 ## ✍🏻 Recent Blog posts
+[2025/07/03 - [Programmers / Level3] 불량 사용자 (JavaScript)](https://yonyoni824.tistory.com/92) <br/>
+[2025/06/26 - [Programmers / Level2] 수식 최대화 (JavaScript)](https://yonyoni824.tistory.com/91) <br/>
+[2025/06/24 - [GSAP] ScrollTrigger 활용 - 스크롤 기반 좌우 슬라이드(Scrub)](https://yonyoni824.tistory.com/90) <br/>
 
 <br/>
 
