@@ -53,10 +53,6 @@
 [🏊🏻‍♀️모던 리액트 딥다이브](https://github.com/yourssu01-04s/react-deepdive)<br/>
 [☕️모던 자바 인 액션](https://github.com/ryuseunghan/java-in-action-study)
 
-## ✍🏻 Recent Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <br/>
 
   <img src="https://github-readme-stats.vercel.app/api?username=seocylucky&show_icons=true&theme=transparent" width="420" />
