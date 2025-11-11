@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 
 ### 🔗 Links
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yonyoni824.tistory.com/)](https://yonyoni824.tistory.com/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://chae-ri.dev/)](https://chae-ri.dev/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seocylucky@gmail.com)](mailto:seocylucky@gmail.com)
 
 ## 📊 Activities
