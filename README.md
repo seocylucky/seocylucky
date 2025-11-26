@@ -1,9 +1,21 @@
 
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/26bdde30-5613-4c21-8500-f38ebdd7c628" width="50%" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum%2BMyeong&weight=600&size=15&pause=1000&color=FF89A4&width=500&height=30&lines=%EC%82%AC%EC%9A%A9%EC%9E%90+%EC%9E%85%EC%9E%A5%EC%97%90%EC%84%9C+%EC%A7%80%EC%86%8D%EC%A0%81%EC%9C%BC%EB%A1%9C+%EA%B3%A0%EB%AF%BC%ED%95%98%EB%A9%B0+%EA%B0%9C%EC%84%A0%ED%95%B4%EB%82%98%EA%B0%80%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EC%84%9C%EC%B1%84%EC%97%B0%EC%9E%85%EB%8B%88%EB%8B%A4%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+
+<br/>
+
+<a href="https://github.com/seocylucky/gitanimals">
+    <img src="https://render.gitanimals.org/lines/seocylucky?pet-id=653908293849337079" width="33%" height="120"/>
+    <img src="https://render.gitanimals.org/lines/seocylucky?pet-id=665164914038047704" width="33%" height="120"/>
+    <img src="https://render.gitanimals.org/lines/seocylucky?pet-id=667573281762598892" width="33%" height="120"/>
+</a>
+
+</div>
+
 <div align="start">
-
-![download (1)](https://github.com/user-attachments/assets/26bdde30-5613-4c21-8500-f38ebdd7c628)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Myeongjo&weight=600&size=14&pause=1000&color=FF89A4&height=30&lines=%EA%B8%B0%EC%88%A0%EB%A1%9C+%EB%94%B0%EB%9C%BB%ED%95%A8%EC%9D%84+%EC%84%A0%EB%AC%BC%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80+%EB%90%98%EA%B3%A0+%EC%8B%B6%EC%9D%80+%EC%84%9C%EC%B1%84%EC%97%B0%EC%9E%85%EB%8B%88%EB%8B%A4%3AD)](https://git.io/typing-svg)
 
 ## 💻 Skills
 ### 💜 I love...
@@ -55,16 +67,9 @@
 
 <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=seocylucky&show_icons=true&theme=transparent" width="420" />
-  <a href="https://gitpaws.vercel.app/api/cat/image/seocylucky"><img src="https://gitpaws.vercel.app/api/cat/image/seocylucky" width="350" /></a>
+  [![seocylucky's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=seocylucky&theme=react)](https://github.com/seocylucky/github-readme-activity-graph)
 
 <br/>
 <br/>
-
-<a href="https://github.com/seocylucky/gitanimals">
-    <img src="https://render.gitanimals.org/lines/seocylucky?pet-id=653908293849337079" width="33%" height="120"/>
-    <img src="https://render.gitanimals.org/lines/seocylucky?pet-id=665164914038047704" width="33%" height="120"/>
-    <img src="https://render.gitanimals.org/lines/seocylucky?pet-id=667573281762598892" width="33%" height="120"/>
-</a>
 
 </div>
