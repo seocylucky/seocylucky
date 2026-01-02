@@ -67,9 +67,4 @@
 
 <br/>
 
-  [![seocylucky's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=seocylucky&theme=react)](https://github.com/seocylucky/github-readme-activity-graph)
-
-<br/>
-<br/>
-
 </div>
