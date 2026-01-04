@@ -43,7 +43,8 @@
 
 ## 📊 Activities
 
-- [2025.07 ~ now] 오픈소스 컨트리뷰션 아카데미 team Githru 멘티<br/>
+- [2026.01 ~ now] Nexters 28기 프론트엔드 개발 파트<br/>
+- [2025.07 ~ 2025.12] 오픈소스 컨트리뷰션 아카데미 team Githru 멘티<br/>
 - [2024.12 ~ 2025.06] 우리FIS아카데미 클라우드서비스개발 과정 교육 수료<br/>
 - [2023.09 ~ 2024.08] Google Developer Student Club (GDSC) Soongsil 3rd Core Member<br/>
 - [2023.03 ~ 2023.07] 언타이틀 학술 소모임 웹 프로그래밍 멘토링 멘토<br/>
