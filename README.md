@@ -3,8 +3,6 @@
 
 <img src="https://github.com/user-attachments/assets/26bdde30-5613-4c21-8500-f38ebdd7c628" width="50%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum%2BMyeong&weight=600&size=15&pause=1000&color=FF89A4&width=500&height=30&lines=%EC%82%AC%EC%9A%A9%EC%9E%90+%EC%9E%85%EC%9E%A5%EC%97%90%EC%84%9C+%EC%A7%80%EC%86%8D%EC%A0%81%EC%9C%BC%EB%A1%9C+%EA%B3%A0%EB%AF%BC%ED%95%98%EB%A9%B0+%EA%B0%9C%EC%84%A0%ED%95%B4%EB%82%98%EA%B0%80%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EC%84%9C%EC%B1%84%EC%97%B0%EC%9E%85%EB%8B%88%EB%8B%A4%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
-
 <br/>
 
 <a href="https://github.com/seocylucky/gitanimals">
